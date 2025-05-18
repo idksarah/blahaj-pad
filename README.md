@@ -5,14 +5,13 @@ Blahaj-Pad is a 3-key macropad for users who need extra space on their keyboard 
 - Onshape CAD
 - KiCAD
 - Python
-- OSHPark
-
-## Bugs/Known Issues
-- Firmware is not up-to-date. Should be fixed within 2 weeks, after I receive the physical PCb.
-
-## Project documentation, for anyone interested :3
-- https://journey.hackclub.com/projects/94
+- JLCPCB
 
 ## Why'd you make this?
 - I really like blahajs.
 - I have a 60% keyboard, and I'm sick of looking on Windows' GUI for my top emojis.
+
+## Pics
+![image](https://github.com/user-attachments/assets/19daa5e2-95cb-465c-bb52-314d964d8487)
+![image](https://github.com/user-attachments/assets/824b7615-1d3f-452a-bb0f-a7605dd7e12a)
+
