@@ -5,11 +5,12 @@ Blahaj-Pad is a 3-key macropad for users who need extra space on their keyboard 
 - Onshape CAD
 - KiCAD
 - Python
+- KMK
 - JLCPCB
 
 ## Why'd you make this?
 - I really like blahajs.
--Windows' emoji GUI pmo
+- Windows' emoji GUI pmo
 
 ## Pics
 ![image](https://github.com/user-attachments/assets/301e343c-cae7-436e-9fb9-42c11290d043)
